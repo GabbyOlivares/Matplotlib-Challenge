@@ -1,3 +1,5 @@
+#IMPORTANT NOTE> pymaceuticals_starter.ipynb file is the final delivery. The pymaceuticals draft is just a worksheet and do not include the final observations and insights.
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
